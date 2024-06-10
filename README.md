@@ -156,3 +156,4 @@ Write the following methods in the models(Article, Author, magazine) provided in
 
 
 
+# examole
